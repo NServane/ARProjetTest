@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 7935487408449146215}
   - component: {fileID: 3019456918414395074}
   - component: {fileID: 8637835230349163397}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7935487408449146215
 Transform:
@@ -94,12 +94,12 @@ GameObject:
   - component: {fileID: 6987046814482109631}
   - component: {fileID: 3490101691714469411}
   - component: {fileID: 4440097140206942447}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6987046814482109631
 Transform:
@@ -177,12 +177,12 @@ GameObject:
   - component: {fileID: 6987046814411678819}
   - component: {fileID: 3490101691646349055}
   - component: {fileID: 4440097140277004339}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6987046814411678819
 Transform:
@@ -260,12 +260,12 @@ GameObject:
   - component: {fileID: 6987046814851394380}
   - component: {fileID: 3490101692151071184}
   - component: {fileID: 4440097140576208668}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6987046814851394380
 Transform:
@@ -343,12 +343,12 @@ GameObject:
   - component: {fileID: 6987046814948178936}
   - component: {fileID: 3490101692183662948}
   - component: {fileID: 4440097140814550952}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6987046814948178936
 Transform:
@@ -426,12 +426,12 @@ GameObject:
   - component: {fileID: 8992582879967091547}
   - component: {fileID: 3772027803431683829}
   - component: {fileID: 5094380648345621499}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8992582879967091547
 Transform:
@@ -509,12 +509,12 @@ GameObject:
   - component: {fileID: 2931311557351316175}
   - component: {fileID: 6592044996638503359}
   - component: {fileID: 2749648618369536891}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2931311557351316175
 Transform:
@@ -592,12 +592,12 @@ GameObject:
   - component: {fileID: 7887647063388194082}
   - component: {fileID: 2329607360822273206}
   - component: {fileID: 3691515071540298831}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7887647063388194082
 Transform:
@@ -675,12 +675,12 @@ GameObject:
   - component: {fileID: 4594649762134956262}
   - component: {fileID: 7435189338747385652}
   - component: {fileID: 487999665817787374}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4594649762134956262
 Transform:
@@ -756,12 +756,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1105966250228459492}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1105966250228459492
 Transform:
@@ -792,12 +792,12 @@ GameObject:
   - component: {fileID: 7713926419755057377}
   - component: {fileID: 7867296188319608855}
   - component: {fileID: 6225726375576894530}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7713926419755057377
 Transform:
@@ -875,12 +875,12 @@ GameObject:
   - component: {fileID: 1037689672441752445}
   - component: {fileID: 4163937220231980248}
   - component: {fileID: 2174589491361386514}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoadCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1037689672441752445
 Transform:
@@ -958,12 +958,12 @@ GameObject:
   - component: {fileID: 3748053634768581013}
   - component: {fileID: 3486460584932819358}
   - component: {fileID: 4246038867248187787}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3748053634768581013
 Transform:
@@ -1041,12 +1041,12 @@ GameObject:
   - component: {fileID: 1451972128605949632}
   - component: {fileID: 8425000668995752953}
   - component: {fileID: 3589489995020798015}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1451972128605949632
 Transform:
@@ -1124,12 +1124,12 @@ GameObject:
   - component: {fileID: 5234126374726024617}
   - component: {fileID: 2235010427449953171}
   - component: {fileID: 4022365322787540437}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5234126374726024617
 Transform:
@@ -1207,12 +1207,12 @@ GameObject:
   - component: {fileID: 1567385785565648967}
   - component: {fileID: 862998366000654798}
   - component: {fileID: 86954026976378036}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1567385785565648967
 Transform:
@@ -1290,12 +1290,12 @@ GameObject:
   - component: {fileID: 8914069743308555068}
   - component: {fileID: 2652960463027960052}
   - component: {fileID: 4895399242288163070}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8914069743308555068
 Transform:
@@ -1373,12 +1373,12 @@ GameObject:
   - component: {fileID: 5535914344045534146}
   - component: {fileID: 2129979805077058966}
   - component: {fileID: 3241117573664674260}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundRoadEdgeSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5535914344045534146
 Transform:
@@ -1465,12 +1465,12 @@ GameObject:
   - component: {fileID: 5073487588560393707}
   - component: {fileID: 632206794429695973}
   - component: {fileID: 67853138356167318}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5073487588560393707
 Transform:
@@ -1548,12 +1548,12 @@ GameObject:
   - component: {fileID: 5073487588791256415}
   - component: {fileID: 632206794196604753}
   - component: {fileID: 67853138591363618}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5073487588791256415
 Transform:
@@ -1631,12 +1631,12 @@ GameObject:
   - component: {fileID: 5073487589328771780}
   - component: {fileID: 632206794733095114}
   - component: {fileID: 67853138054933945}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5073487589328771780
 Transform:
@@ -1714,12 +1714,12 @@ GameObject:
   - component: {fileID: 5073487589264599576}
   - component: {fileID: 632206794798987286}
   - component: {fileID: 67853137986952549}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5073487589264599576
 Transform:
@@ -1797,12 +1797,12 @@ GameObject:
   - component: {fileID: 991911960533233299}
   - component: {fileID: 2085423330011532982}
   - component: {fileID: 5452492237432727340}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &991911960533233299
 Transform:
@@ -2037,6 +2037,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -2066,6 +2067,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     startSize:
@@ -2387,6 +2389,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
+    gravitySource: 0
     maxNumParticles: 1000
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
@@ -3125,6 +3128,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 4
       minGradient:
@@ -3154,6 +3158,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
   UVModule:
@@ -5374,6 +5379,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -5403,6 +5409,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     range: {x: 0, y: 1}
@@ -5780,6 +5787,7 @@ ParticleSystem:
         m_RotationOrder: 4
     minVertexDistance: 0.2
     textureMode: 0
+    textureScale: {x: 1, y: 1}
     ribbonCount: 1
     shadowBias: 0.5
     worldSpace: 0
@@ -5822,6 +5830,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -5851,6 +5860,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     widthOverTrail:
@@ -5938,6 +5948,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -5967,6 +5978,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
   CustomDataModule:
@@ -6005,6 +6017,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -6034,6 +6047,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     colorLabel0: Color
@@ -6287,6 +6301,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -6316,6 +6331,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     colorLabel1: Color
@@ -6618,12 +6634,12 @@ GameObject:
   - component: {fileID: 604213172961794680}
   - component: {fileID: 5225209815110239869}
   - component: {fileID: 4864396677355724684}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &604213172961794680
 Transform:
@@ -6701,12 +6717,12 @@ GameObject:
   - component: {fileID: 7948797267914459458}
   - component: {fileID: 4450632239540533923}
   - component: {fileID: 662559291661661782}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7948797267914459458
 Transform:
@@ -6784,12 +6800,12 @@ GameObject:
   - component: {fileID: 7020387478464904222}
   - component: {fileID: 619092202753819000}
   - component: {fileID: 7666480281956825454}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7020387478464904222
 Transform:
@@ -6867,12 +6883,12 @@ GameObject:
   - component: {fileID: 462308555530514884}
   - component: {fileID: 3586458202789264993}
   - component: {fileID: 1594661236607994539}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: LampTall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &462308555530514884
 Transform:
@@ -6950,12 +6966,12 @@ GameObject:
   - component: {fileID: 462308556322087815}
   - component: {fileID: 3586458203581099042}
   - component: {fileID: 1594661236323932392}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: LampTall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &462308556322087815
 Transform:
@@ -7033,12 +7049,12 @@ GameObject:
   - component: {fileID: 462308555937278216}
   - component: {fileID: 3586458203196286637}
   - component: {fileID: 1594661236209619559}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: LampTall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &462308555937278216
 Transform:
@@ -7114,12 +7130,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 465589266637790497}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &465589266637790497
 Transform:
@@ -7151,12 +7167,12 @@ GameObject:
   - component: {fileID: 443472517207907684}
   - component: {fileID: 3569204353042240193}
   - component: {fileID: 1615854637079635467}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Drain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &443472517207907684
 Transform:
@@ -7234,12 +7250,12 @@ GameObject:
   - component: {fileID: 443472518611265890}
   - component: {fileID: 3569204352431679175}
   - component: {fileID: 1615854637811175949}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Drain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &443472518611265890
 Transform:
@@ -7317,12 +7333,12 @@ GameObject:
   - component: {fileID: 3816699940113843381}
   - component: {fileID: 3676850058110475089}
   - component: {fileID: 8748319782325951181}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingPubSign 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3816699940113843381
 Transform:
@@ -7400,12 +7416,12 @@ GameObject:
   - component: {fileID: 3527848473727980879}
   - component: {fileID: 6096064039205017342}
   - component: {fileID: 2002983652008715935}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3527848473727980879
 Transform:
@@ -7483,12 +7499,12 @@ GameObject:
   - component: {fileID: 11159811301032270}
   - component: {fileID: 6548119972638797702}
   - component: {fileID: 5860687107218299855}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &11159811301032270
 Transform:
@@ -7566,12 +7582,12 @@ GameObject:
   - component: {fileID: 248745053732001360}
   - component: {fileID: 9091271330870940920}
   - component: {fileID: 955501150097018214}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &248745053732001360
 Transform:
@@ -7649,12 +7665,12 @@ GameObject:
   - component: {fileID: 969094425997317820}
   - component: {fileID: 4509627110742107159}
   - component: {fileID: 3899540364902429224}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundRoadEdgeSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &969094425997317820
 Transform:
@@ -7741,12 +7757,12 @@ GameObject:
   - component: {fileID: 8526487754125702005}
   - component: {fileID: 7706834299094322493}
   - component: {fileID: 417308556985364407}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8526487754125702005
 Transform:
@@ -7828,12 +7844,12 @@ GameObject:
   - component: {fileID: 8526487754057581481}
   - component: {fileID: 7706834299028454881}
   - component: {fileID: 417308556919086955}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8526487754057581481
 Transform:
@@ -7915,12 +7931,12 @@ GameObject:
   - component: {fileID: 8526487753589501166}
   - component: {fileID: 7706834298558124710}
   - component: {fileID: 417308556448837676}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8526487753589501166
 Transform:
@@ -8002,12 +8018,12 @@ GameObject:
   - component: {fileID: 8526487753621568602}
   - component: {fileID: 7706834298659521042}
   - component: {fileID: 417308556281405592}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8526487753621568602
 Transform:
@@ -8089,12 +8105,12 @@ GameObject:
   - component: {fileID: 5783241527900111408}
   - component: {fileID: 1752251584680376906}
   - component: {fileID: 6186197383817289789}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundEdgeCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5783241527900111408
 Transform:
@@ -8176,12 +8192,12 @@ GameObject:
   - component: {fileID: 5783241526727758266}
   - component: {fileID: 1752251583503952320}
   - component: {fileID: 6186197385056760759}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundEdgeCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5783241526727758266
 Transform:
@@ -8263,12 +8279,12 @@ GameObject:
   - component: {fileID: 5783241527144733294}
   - component: {fileID: 1752251584420831764}
   - component: {fileID: 6186197384668166243}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Ground Edge Corner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5783241527144733294
 Transform:
@@ -8350,12 +8366,12 @@ GameObject:
   - component: {fileID: 6634682360508168221}
   - component: {fileID: 20778558265318741}
   - component: {fileID: 1455416354989485762}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6634682360508168221
 Transform:
@@ -8433,12 +8449,12 @@ GameObject:
   - component: {fileID: 626877344151219119}
   - component: {fileID: 1898509011632557200}
   - component: {fileID: 6072250622968311210}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: DoorBlue002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &626877344151219119
 Transform:
@@ -8514,12 +8530,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 879295460635155711}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesSteps (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &879295460635155711
 Transform:
@@ -8550,12 +8566,12 @@ GameObject:
   - component: {fileID: 4297997486766249760}
   - component: {fileID: 2172027552291577383}
   - component: {fileID: 5291156896470349132}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4297997486766249760
 Transform:
@@ -8633,12 +8649,12 @@ GameObject:
   - component: {fileID: 4297997486696048636}
   - component: {fileID: 2172027552355331835}
   - component: {fileID: 5291156896534381968}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4297997486696048636
 Transform:
@@ -8716,12 +8732,12 @@ GameObject:
   - component: {fileID: 4297997487302740155}
   - component: {fileID: 2172027552828850620}
   - component: {fileID: 5291156895933131479}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4297997487302740155
 Transform:
@@ -8799,12 +8815,12 @@ GameObject:
   - component: {fileID: 4297997487400867855}
   - component: {fileID: 2172027552791974152}
   - component: {fileID: 5291156896165444195}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4297997487400867855
 Transform:
@@ -8882,12 +8898,12 @@ GameObject:
   - component: {fileID: 8923214994055576300}
   - component: {fileID: 575580175705692851}
   - component: {fileID: 2176541368971829671}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8923214994055576300
 Transform:
@@ -8965,12 +8981,12 @@ GameObject:
   - component: {fileID: 3005133189453886384}
   - component: {fileID: 5146911863655495619}
   - component: {fileID: 1184189809434014562}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3005133189453886384
 Transform:
@@ -9048,12 +9064,12 @@ GameObject:
   - component: {fileID: 8100844096235930760}
   - component: {fileID: 9036188464827224817}
   - component: {fileID: 5377437324503273426}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8100844096235930760
 Transform:
@@ -9131,12 +9147,12 @@ GameObject:
   - component: {fileID: 4947285318967708751}
   - component: {fileID: 378063016810773300}
   - component: {fileID: 3550443636607800700}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4947285318967708751
 Transform:
@@ -9214,12 +9230,12 @@ GameObject:
   - component: {fileID: 5270996564049655422}
   - component: {fileID: 7329671919493267183}
   - component: {fileID: 4896481692412706965}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5270996564049655422
 Transform:
@@ -9297,12 +9313,12 @@ GameObject:
   - component: {fileID: 6640276824765908894}
   - component: {fileID: 8424597738842331775}
   - component: {fileID: 5396456385825892988}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6640276824765908894
 Transform:
@@ -9378,12 +9394,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4296738724660781773}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4296738724660781773
 Transform:
@@ -9413,12 +9429,12 @@ GameObject:
   - component: {fileID: 5864873408071751490}
   - component: {fileID: 3014831313679842241}
   - component: {fileID: 3833348745366794748}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5864873408071751490
 Transform:
@@ -9496,12 +9512,12 @@ GameObject:
   - component: {fileID: 8263572940423656329}
   - component: {fileID: 6787053809128291096}
   - component: {fileID: 8681674080777536866}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8263572940423656329
 Transform:
@@ -9579,12 +9595,12 @@ GameObject:
   - component: {fileID: 9160327642318358968}
   - component: {fileID: 4519198345796222659}
   - component: {fileID: 778552162116259979}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9160327642318358968
 Transform:
@@ -9662,12 +9678,12 @@ GameObject:
   - component: {fileID: 8549090654087603395}
   - component: {fileID: 1032355565257092094}
   - component: {fileID: 7511966487066417792}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8549090654087603395
 Transform:
@@ -9745,12 +9761,12 @@ GameObject:
   - component: {fileID: 5468414987224875391}
   - component: {fileID: 5111217465560585990}
   - component: {fileID: 8153822639248460325}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5468414987224875391
 Transform:
@@ -9828,12 +9844,12 @@ GameObject:
   - component: {fileID: 842068034165744945}
   - component: {fileID: 1406600072655292387}
   - component: {fileID: 3562931747712579646}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &842068034165744945
 Transform:
@@ -9911,12 +9927,12 @@ GameObject:
   - component: {fileID: 7538954543193947818}
   - component: {fileID: 7695070771128685685}
   - component: {fileID: 1148046404939710566}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7538954543193947818
 Transform:
@@ -9992,12 +10008,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2414178513428262476}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2414178513428262476
 Transform:
@@ -10028,12 +10044,12 @@ GameObject:
   - component: {fileID: 271956003844647301}
   - component: {fileID: 1697170014954730089}
   - component: {fileID: 5391628502943128720}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &271956003844647301
 Transform:
@@ -10111,12 +10127,12 @@ GameObject:
   - component: {fileID: 5866074837168716310}
   - component: {fileID: 8167888797673590313}
   - component: {fileID: 399902292836343447}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5866074837168716310
 Transform:
@@ -10194,12 +10210,12 @@ GameObject:
   - component: {fileID: 1046798153052959200}
   - component: {fileID: 6001344840415632143}
   - component: {fileID: 5461912616032399170}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim015
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1046798153052959200
 Transform:
@@ -10277,12 +10293,12 @@ GameObject:
   - component: {fileID: 7408909741794674359}
   - component: {fileID: 9215043959755901726}
   - component: {fileID: 1090084964910765071}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Flag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7408909741794674359
 Transform:
@@ -10360,12 +10376,12 @@ GameObject:
   - component: {fileID: 3271360100941166321}
   - component: {fileID: 6032749832641478373}
   - component: {fileID: 1530080622373290000}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3271360100941166321
 Transform:
@@ -10443,12 +10459,12 @@ GameObject:
   - component: {fileID: 826227353026641025}
   - component: {fileID: 5142065394516444301}
   - component: {fileID: 6109218006933330932}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingPubChimney
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &826227353026641025
 Transform:
@@ -10526,12 +10542,12 @@ GameObject:
   - component: {fileID: 3679852745468003337}
   - component: {fileID: 1933770326335112612}
   - component: {fileID: 8824828302589749343}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3679852745468003337
 Transform:
@@ -10613,12 +10629,12 @@ GameObject:
   - component: {fileID: 8069137903935926514}
   - component: {fileID: 2875647476810287240}
   - component: {fileID: 7665315759557104383}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundEdgeCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8069137903935926514
 Transform:
@@ -10700,12 +10716,12 @@ GameObject:
   - component: {fileID: 7465680414663982570}
   - component: {fileID: 4305895622136420514}
   - component: {fileID: 3439309525741579061}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7465680414663982570
 Transform:
@@ -10783,12 +10799,12 @@ GameObject:
   - component: {fileID: 8908151872844509495}
   - component: {fileID: 9041863973597775144}
   - component: {fileID: 1836674573935667981}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSmall009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8908151872844509495
 Transform:
@@ -10866,12 +10882,12 @@ GameObject:
   - component: {fileID: 5779108521534003906}
   - component: {fileID: 3934060552903917968}
   - component: {fileID: 8713379745642909923}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5779108521534003906
 Transform:
@@ -10949,12 +10965,12 @@ GameObject:
   - component: {fileID: 5379020839990245317}
   - component: {fileID: 2368102270776371237}
   - component: {fileID: 846704502165091168}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5379020839990245317
 Transform:
@@ -11030,12 +11046,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4165688179603910627}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4165688179603910627
 Transform:
@@ -11065,12 +11081,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4165688180512062569}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4165688180512062569
 Transform:
@@ -11100,12 +11116,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4165688180926609341}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4165688180926609341
 Transform:
@@ -11137,12 +11153,12 @@ GameObject:
   - component: {fileID: 7076703683275248454}
   - component: {fileID: 4706557880863192628}
   - component: {fileID: 6589109011113864072}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7076703683275248454
 Transform:
@@ -11220,12 +11236,12 @@ GameObject:
   - component: {fileID: 3801129722739309947}
   - component: {fileID: 800693403101911451}
   - component: {fileID: 5670858361739662283}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3801129722739309947
 Transform:
@@ -11303,12 +11319,12 @@ GameObject:
   - component: {fileID: 3961661903165526859}
   - component: {fileID: 368491748437107168}
   - component: {fileID: 978899536641456095}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundRoadEdgeSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3961661903165526859
 Transform:
@@ -11395,12 +11411,12 @@ GameObject:
   - component: {fileID: 5588005147384536200}
   - component: {fileID: 666552066534759171}
   - component: {fileID: 5486008762263375811}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecDouble004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5588005147384536200
 Transform:
@@ -11478,12 +11494,12 @@ GameObject:
   - component: {fileID: 882018156305610450}
   - component: {fileID: 934416786592538595}
   - component: {fileID: 4443356983206781987}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundStoneWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &882018156305610450
 Transform:
@@ -11565,12 +11581,12 @@ GameObject:
   - component: {fileID: 6549678115617028585}
   - component: {fileID: 3683726414489289871}
   - component: {fileID: 5903237860547509401}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6549678115617028585
 Transform:
@@ -11648,12 +11664,12 @@ GameObject:
   - component: {fileID: 1379879295495479096}
   - component: {fileID: 6986183924125267016}
   - component: {fileID: 2134981537455658636}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1379879295495479096
 Transform:
@@ -11731,12 +11747,12 @@ GameObject:
   - component: {fileID: 6137009962486465360}
   - component: {fileID: 1276115459936938154}
   - component: {fileID: 1543149306332421987}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingPubSign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6137009962486465360
 Transform:
@@ -11814,12 +11830,12 @@ GameObject:
   - component: {fileID: 3143254541121158146}
   - component: {fileID: 5427674091233485115}
   - component: {fileID: 1038373890670410493}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3143254541121158146
 Transform:
@@ -11897,12 +11913,12 @@ GameObject:
   - component: {fileID: 3143254539227964508}
   - component: {fileID: 5427674091558140261}
   - component: {fileID: 1038373889875042979}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3143254539227964508
 Transform:
@@ -11980,12 +11996,12 @@ GameObject:
   - component: {fileID: 3143254539877724040}
   - component: {fileID: 5427674092477313713}
   - component: {fileID: 1038373889762158967}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3143254539877724040
 Transform:
@@ -12063,12 +12079,12 @@ GameObject:
   - component: {fileID: 2739412225843161104}
   - component: {fileID: 3290096547988784715}
   - component: {fileID: 1565503517137476558}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: FlagPole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2739412225843161104
 Transform:
@@ -12147,12 +12163,12 @@ GameObject:
   - component: {fileID: 3779670840349832876}
   - component: {fileID: 6467576643335973677}
   - component: {fileID: 3167009674698254337}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3779670840349832876
 Transform:
@@ -12230,12 +12246,12 @@ GameObject:
   - component: {fileID: 9214177251181555928}
   - component: {fileID: 629082784865917677}
   - component: {fileID: 3847915330332812024}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: HotelSigns
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9214177251181555928
 Transform:
@@ -12313,12 +12329,12 @@ GameObject:
   - component: {fileID: 3380424839836317796}
   - component: {fileID: 8091820692343886386}
   - component: {fileID: 6344423632364057842}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3380424839836317796
 Transform:
@@ -12396,12 +12412,12 @@ GameObject:
   - component: {fileID: 3867038584308966387}
   - component: {fileID: 145699102631930966}
   - component: {fileID: 2729559357924104348}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingPub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3867038584308966387
 Transform:
@@ -12496,12 +12512,12 @@ GameObject:
   - component: {fileID: 6760162930368243373}
   - component: {fileID: 915107795120944898}
   - component: {fileID: 3079600776364337916}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6760162930368243373
 Transform:
@@ -12579,12 +12595,12 @@ GameObject:
   - component: {fileID: 1171948139941576550}
   - component: {fileID: 8738560086681610918}
   - component: {fileID: 6780072636335415164}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1171948139941576550
 Transform:
@@ -12662,12 +12678,12 @@ GameObject:
   - component: {fileID: 1171948140007706554}
   - component: {fileID: 8738560086615726714}
   - component: {fileID: 6780072636403494816}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1171948140007706554
 Transform:
@@ -12745,12 +12761,12 @@ GameObject:
   - component: {fileID: 1171948140646056085}
   - component: {fileID: 8738560087319549269}
   - component: {fileID: 6780072635965939855}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1171948140646056085
 Transform:
@@ -12828,12 +12844,12 @@ GameObject:
   - component: {fileID: 1171948140544921633}
   - component: {fileID: 8738560087153034721}
   - component: {fileID: 6780072635866279995}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1171948140544921633
 Transform:
@@ -12911,12 +12927,12 @@ GameObject:
   - component: {fileID: 9095799865906417768}
   - component: {fileID: 2659980453169611199}
   - component: {fileID: 3212430402539989764}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9095799865906417768
 Transform:
@@ -12994,12 +13010,12 @@ GameObject:
   - component: {fileID: 5879984147693316091}
   - component: {fileID: 1611762812289150046}
   - component: {fileID: 5217038417544778009}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5879984147693316091
 Transform:
@@ -13077,12 +13093,12 @@ GameObject:
   - component: {fileID: 5879984148385016879}
   - component: {fileID: 1611762813250267018}
   - component: {fileID: 5217038416583596749}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5879984148385016879
 Transform:
@@ -13160,12 +13176,12 @@ GameObject:
   - component: {fileID: 5879984147476905893}
   - component: {fileID: 1611762814221038592}
   - component: {fileID: 5217038417827416391}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5879984147476905893
 Transform:
@@ -13241,12 +13257,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3805931796125753875}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3805931796125753875
 Transform:
@@ -13277,12 +13293,12 @@ GameObject:
   - component: {fileID: 7211600846143003522}
   - component: {fileID: 2539277413765265668}
   - component: {fileID: 7754578439593433549}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7211600846143003522
 Transform:
@@ -13360,12 +13376,12 @@ GameObject:
   - component: {fileID: 6170318514594765119}
   - component: {fileID: 6882696537592422155}
   - component: {fileID: 2752025898708273976}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6170318514594765119
 Transform:
@@ -13443,12 +13459,12 @@ GameObject:
   - component: {fileID: 1730721872331057820}
   - component: {fileID: 6489572917961761624}
   - component: {fileID: 1271070612805448885}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1730721872331057820
 Transform:
@@ -13526,12 +13542,12 @@ GameObject:
   - component: {fileID: 4236650787584522815}
   - component: {fileID: 1255859302050478460}
   - component: {fileID: 3465857914363686921}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4236650787584522815
 Transform:
@@ -13609,12 +13625,12 @@ GameObject:
   - component: {fileID: 2508650023687488844}
   - component: {fileID: 2851724163088655227}
   - component: {fileID: 5739795024740254385}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2508650023687488844
 Transform:
@@ -13690,12 +13706,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5140281283095256734}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Set
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5140281283095256734
 Transform:
@@ -13733,12 +13749,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5140281283254488672}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Lamps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5140281283254488672
 Transform:
@@ -13768,12 +13784,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5140281283480622598}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5140281283480622598
 Transform:
@@ -13819,12 +13835,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5140281283730281737}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Buildings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5140281283730281737
 Transform:
@@ -13852,12 +13868,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5140281284177862375}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Water
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5140281284177862375
 Transform:
@@ -13886,12 +13902,12 @@ GameObject:
   - component: {fileID: 8629196544928686050}
   - component: {fileID: 3679913973832830661}
   - component: {fileID: 5137820823455248505}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8629196544928686050
 Transform:
@@ -13969,12 +13985,12 @@ GameObject:
   - component: {fileID: 7352994097207127958}
   - component: {fileID: 3169583635253126449}
   - component: {fileID: 1900293468782829529}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: SignPub1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7352994097207127958
 Transform:
@@ -14052,12 +14068,12 @@ GameObject:
   - component: {fileID: 4848166641491352762}
   - component: {fileID: 8423981225759380255}
   - component: {fileID: 5981634638599317461}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4848166641491352762
 Transform:
@@ -14135,12 +14151,12 @@ GameObject:
   - component: {fileID: 4848166642617332785}
   - component: {fileID: 8423981224872491924}
   - component: {fileID: 5981634640128331614}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4848166642617332785
 Transform:
@@ -14218,12 +14234,12 @@ GameObject:
   - component: {fileID: 1120314452805979299}
   - component: {fileID: 541061717990745022}
   - component: {fileID: 346356188960034894}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pillar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1120314452805979299
 Transform:
@@ -14299,12 +14315,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1740618596333835435}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BeachsideTown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1740618596333835435
 Transform:
@@ -14313,7 +14329,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5262358242281827243}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0.96592593, z: 0, w: -0.25881898}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -14333,12 +14349,12 @@ GameObject:
   - component: {fileID: 7174263221952796823}
   - component: {fileID: 7127456812115182032}
   - component: {fileID: 1184154490182357260}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7174263221952796823
 Transform:
@@ -14416,12 +14432,12 @@ GameObject:
   - component: {fileID: 347695954016138967}
   - component: {fileID: 8943847706754270741}
   - component: {fileID: 5771154285099899045}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &347695954016138967
 Transform:
@@ -14499,12 +14515,12 @@ GameObject:
   - component: {fileID: 3980428285392252987}
   - component: {fileID: 7933533312940738150}
   - component: {fileID: 7997289381221501086}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3980428285392252987
 Transform:
@@ -14582,12 +14598,12 @@ GameObject:
   - component: {fileID: 7056006694928000221}
   - component: {fileID: 9100950530802910900}
   - component: {fileID: 6370069293977216690}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7056006694928000221
 Transform:
@@ -14665,12 +14681,12 @@ GameObject:
   - component: {fileID: 4599272568132135175}
   - component: {fileID: 2608810793570310632}
   - component: {fileID: 2032772530994739080}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4599272568132135175
 Transform:
@@ -14746,12 +14762,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5450565904151494612}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebblesSteps (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5450565904151494612
 Transform:
@@ -14782,12 +14798,12 @@ GameObject:
   - component: {fileID: 4674538409239084892}
   - component: {fileID: 8606537766757626105}
   - component: {fileID: 5806379302144607283}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BeachBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4674538409239084892
 Transform:
@@ -14870,7 +14886,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4674538409304543283
 Transform:
@@ -14946,12 +14962,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4674538409583461017}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Flag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4674538409583461017
 Transform:
@@ -14981,12 +14997,12 @@ GameObject:
   - component: {fileID: 4674538409648384843}
   - component: {fileID: 8606537767101261038}
   - component: {fileID: 5806379301617864740}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BeachBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4674538409648384843
 Transform:
@@ -15064,12 +15080,12 @@ GameObject:
   - component: {fileID: 4674538410610182392}
   - component: {fileID: 8606537765915051869}
   - component: {fileID: 5806379302308623255}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BeachBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4674538410610182392
 Transform:
@@ -15147,12 +15163,12 @@ GameObject:
   - component: {fileID: 7539388846551810017}
   - component: {fileID: 2668425495146677051}
   - component: {fileID: 2943530320156785667}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: LanternGlass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7539388846551810017
 Transform:
@@ -15230,12 +15246,12 @@ GameObject:
   - component: {fileID: 5070258422669220524}
   - component: {fileID: 3395569325858482307}
   - component: {fileID: 1808906783115713111}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundRoadEdgeSteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5070258422669220524
 Transform:
@@ -15322,12 +15338,12 @@ GameObject:
   - component: {fileID: 8618372413808608704}
   - component: {fileID: 167423285660512870}
   - component: {fileID: 9166513039575506344}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8618372413808608704
 Transform:
@@ -15405,12 +15421,12 @@ GameObject:
   - component: {fileID: 747785760473896488}
   - component: {fileID: 4067916497293329865}
   - component: {fileID: 5774844123903426406}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &747785760473896488
 Transform:
@@ -15488,12 +15504,12 @@ GameObject:
   - component: {fileID: 747785760405923572}
   - component: {fileID: 4067916497227199765}
   - component: {fileID: 5774844123839238074}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &747785760405923572
 Transform:
@@ -15571,12 +15587,12 @@ GameObject:
   - component: {fileID: 747785759768041735}
   - component: {fileID: 4067916496857942758}
   - component: {fileID: 5774844124208721993}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &747785759768041735
 Transform:
@@ -15654,12 +15670,12 @@ GameObject:
   - component: {fileID: 747785759937694131}
   - component: {fileID: 4067916496755759698}
   - component: {fileID: 5774844124440633597}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &747785759937694131
 Transform:
@@ -15737,12 +15753,12 @@ GameObject:
   - component: {fileID: 5222387251378600541}
   - component: {fileID: 6434155528911198840}
   - component: {fileID: 1013727628390626274}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5222387251378600541
 Transform:
@@ -15977,6 +15993,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -16006,6 +16023,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     startSize:
@@ -16327,6 +16345,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
+    gravitySource: 0
     maxNumParticles: 1000
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
@@ -17065,6 +17084,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 4
       minGradient:
@@ -17094,6 +17114,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
   UVModule:
@@ -19314,6 +19335,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -19343,6 +19365,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     range: {x: 0, y: 1}
@@ -19720,6 +19743,7 @@ ParticleSystem:
         m_RotationOrder: 4
     minVertexDistance: 0.2
     textureMode: 0
+    textureScale: {x: 1, y: 1}
     ribbonCount: 1
     shadowBias: 0.5
     worldSpace: 0
@@ -19762,6 +19786,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -19791,6 +19816,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     widthOverTrail:
@@ -19878,6 +19904,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -19907,6 +19934,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
   CustomDataModule:
@@ -19945,6 +19973,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -19974,6 +20003,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     colorLabel0: Color
@@ -20227,6 +20257,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       minGradient:
@@ -20256,6 +20287,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
     colorLabel1: Color
@@ -20547,6 +20579,134 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!1 &5742899537743927333
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8982760951036589785}
+  - component: {fileID: 6318577934356039584}
+  m_Layer: 4
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8982760951036589785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5742899537743927333}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.77}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5184339823404733563}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &6318577934356039584
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5742899537743927333}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 9c48ae8cfa3fd2441887fe5e50157b87, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.1
+  MaxDistance: 200
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &5757473690792227973
 GameObject:
   m_ObjectHideFlags: 0
@@ -20558,12 +20718,12 @@ GameObject:
   - component: {fileID: 6721863818118585844}
   - component: {fileID: 7514567432595930434}
   - component: {fileID: 7081090581375250225}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: DoorBlue003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6721863818118585844
 Transform:
@@ -20641,12 +20801,12 @@ GameObject:
   - component: {fileID: 3054731487371002287}
   - component: {fileID: 8076735812820084864}
   - component: {fileID: 8726741480453407571}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: PebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3054731487371002287
 Transform:
@@ -20724,12 +20884,12 @@ GameObject:
   - component: {fileID: 3054731486072330737}
   - component: {fileID: 8076735811424940254}
   - component: {fileID: 8726741479133698829}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles corner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3054731486072330737
 Transform:
@@ -20807,12 +20967,12 @@ GameObject:
   - component: {fileID: 3054731486462759461}
   - component: {fileID: 8076735811580754698}
   - component: {fileID: 8726741479549358297}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles corner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3054731486462759461
 Transform:
@@ -20890,12 +21050,12 @@ GameObject:
   - component: {fileID: 6602038656771037894}
   - component: {fileID: 7796008824937321827}
   - component: {fileID: 5464005378933252521}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: LampWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6602038656771037894
 Transform:
@@ -20974,12 +21134,12 @@ GameObject:
   - component: {fileID: 6869521150018507050}
   - component: {fileID: 9023269187695358911}
   - component: {fileID: 2406670157224663878}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6869521150018507050
 Transform:
@@ -21057,12 +21217,12 @@ GameObject:
   - component: {fileID: 7541473168816802513}
   - component: {fileID: 2175254756959421820}
   - component: {fileID: 7312301031270147041}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle015
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7541473168816802513
 Transform:
@@ -21140,12 +21300,12 @@ GameObject:
   - component: {fileID: 2055434795804739651}
   - component: {fileID: 7212925986049500799}
   - component: {fileID: 8390558931322956103}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2055434795804739651
 Transform:
@@ -21221,12 +21381,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5184339823404733563}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: TownMesh
-  m_TagString: Untagged
+  m_TagString: ModelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5184339823404733563
 Transform:
@@ -21240,6 +21400,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 3102106543321162749}
+  - {fileID: 8982760951036589785}
   - {fileID: 4296738724660781773}
   m_Father: {fileID: 1740618596333835435}
   m_RootOrder: 0
@@ -21255,12 +21417,12 @@ GameObject:
   - component: {fileID: 7536305727792123052}
   - component: {fileID: 3010949393119725198}
   - component: {fileID: 8028010774528878574}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7536305727792123052
 Transform:
@@ -21338,12 +21500,12 @@ GameObject:
   - component: {fileID: 935978385089301412}
   - component: {fileID: 9040407614334356577}
   - component: {fileID: 6566941975723817476}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &935978385089301412
 Transform:
@@ -21421,12 +21583,12 @@ GameObject:
   - component: {fileID: 7039007285933308972}
   - component: {fileID: 7049030567756381946}
   - component: {fileID: 2616929119100086801}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7039007285933308972
 Transform:
@@ -21504,12 +21666,12 @@ GameObject:
   - component: {fileID: 7130982331183331225}
   - component: {fileID: 405840459346361591}
   - component: {fileID: 1063151796766332051}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7130982331183331225
 Transform:
@@ -21587,12 +21749,12 @@ GameObject:
   - component: {fileID: 9154713767424107234}
   - component: {fileID: 3448477899094854817}
   - component: {fileID: 5944958205607236538}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object146
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9154713767424107234
 Transform:
@@ -21670,12 +21832,12 @@ GameObject:
   - component: {fileID: 4815668640807016082}
   - component: {fileID: 7188365486518084765}
   - component: {fileID: 7795063190605432186}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4815668640807016082
 Transform:
@@ -21753,12 +21915,12 @@ GameObject:
   - component: {fileID: 3262553100015078000}
   - component: {fileID: 4703967021841209760}
   - component: {fileID: 8175650598828295859}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3262553100015078000
 Transform:
@@ -21836,12 +21998,12 @@ GameObject:
   - component: {fileID: 6434855851401581254}
   - component: {fileID: 1182828166537025201}
   - component: {fileID: 5576959291747105504}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6434855851401581254
 Transform:
@@ -21919,12 +22081,12 @@ GameObject:
   - component: {fileID: 4240264392495112762}
   - component: {fileID: 7418494267448489647}
   - component: {fileID: 4766831130334674084}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4240264392495112762
 Transform:
@@ -22002,12 +22164,12 @@ GameObject:
   - component: {fileID: 3154533783861166612}
   - component: {fileID: 2656668240962082810}
   - component: {fileID: 2210285303317890483}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: HotelDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3154533783861166612
 Transform:
@@ -22085,12 +22247,12 @@ GameObject:
   - component: {fileID: 5852164714389152627}
   - component: {fileID: 7392882369263480022}
   - component: {fileID: 4718712555774826524}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Drain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5852164714389152627
 Transform:
@@ -22168,12 +22330,12 @@ GameObject:
   - component: {fileID: 2364281481922375267}
   - component: {fileID: 7106587677105720461}
   - component: {fileID: 427283586494261146}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2364281481922375267
 Transform:
@@ -22251,12 +22413,12 @@ GameObject:
   - component: {fileID: 2200147866395697551}
   - component: {fileID: 4592850846022267258}
   - component: {fileID: 5376504581480766335}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pillar1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2200147866395697551
 Transform:
@@ -22334,12 +22496,12 @@ GameObject:
   - component: {fileID: 7522284725665897892}
   - component: {fileID: 9211752683747001933}
   - component: {fileID: 2422061754074563894}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSmall010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7522284725665897892
 Transform:
@@ -22417,12 +22579,12 @@ GameObject:
   - component: {fileID: 7791469555179384502}
   - component: {fileID: 5833841567932024087}
   - component: {fileID: 942014595252479068}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSmall011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7791469555179384502
 Transform:
@@ -22500,12 +22662,12 @@ GameObject:
   - component: {fileID: 9134069082916960628}
   - component: {fileID: 6818505142456095348}
   - component: {fileID: 8415880938197027893}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSmall008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9134069082916960628
 Transform:
@@ -22583,12 +22745,12 @@ GameObject:
   - component: {fileID: 3784644003254403279}
   - component: {fileID: 6552083919034171540}
   - component: {fileID: 528478195139819869}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3784644003254403279
 Transform:
@@ -22666,12 +22828,12 @@ GameObject:
   - component: {fileID: 87730366506829875}
   - component: {fileID: 2033727471670903427}
   - component: {fileID: 6143739342803236482}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &87730366506829875
 Transform:
@@ -22747,12 +22909,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1055769437474073716}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1055769437474073716
 Transform:
@@ -22783,12 +22945,12 @@ GameObject:
   - component: {fileID: 8056876695248701376}
   - component: {fileID: 6368122031894104165}
   - component: {fileID: 9188726934005349551}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingHotel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8056876695248701376
 Transform:
@@ -22897,12 +23059,12 @@ GameObject:
   - component: {fileID: 5885122688374344360}
   - component: {fileID: 6427606853599112511}
   - component: {fileID: 3127514385006845365}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: SignPub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5885122688374344360
 Transform:
@@ -22980,12 +23142,12 @@ GameObject:
   - component: {fileID: 2647902962717455688}
   - component: {fileID: 8717286070379858393}
   - component: {fileID: 6912681078547605726}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2647902962717455688
 Transform:
@@ -23063,12 +23225,12 @@ GameObject:
   - component: {fileID: 5790626905659125580}
   - component: {fileID: 6644490621943352564}
   - component: {fileID: 8507714238911048821}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5790626905659125580
 Transform:
@@ -23146,12 +23308,12 @@ GameObject:
   - component: {fileID: 7418650012694935642}
   - component: {fileID: 3446197506432990253}
   - component: {fileID: 8276546570730868860}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7418650012694935642
 Transform:
@@ -23229,12 +23391,12 @@ GameObject:
   - component: {fileID: 7418650011744498574}
   - component: {fileID: 3446197506849699833}
   - component: {fileID: 8276546571382725544}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7418650011744498574
 Transform:
@@ -23312,12 +23474,12 @@ GameObject:
   - component: {fileID: 7418650010769235972}
   - component: {fileID: 3446197507825050739}
   - component: {fileID: 8276546570407495714}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7418650010769235972
 Transform:
@@ -23395,12 +23557,12 @@ GameObject:
   - component: {fileID: 8328566109274874406}
   - component: {fileID: 1911876436744729475}
   - component: {fileID: 126244366362394137}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8328566109274874406
 Transform:
@@ -23478,12 +23640,12 @@ GameObject:
   - component: {fileID: 1965770415435738004}
   - component: {fileID: 6419854241225935226}
   - component: {fileID: 4496361079984153197}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1965770415435738004
 Transform:
@@ -23561,12 +23723,12 @@ GameObject:
   - component: {fileID: 1431420765580742242}
   - component: {fileID: 1398817293758520102}
   - component: {fileID: 3498436581085745151}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1431420765580742242
 Transform:
@@ -23644,12 +23806,12 @@ GameObject:
   - component: {fileID: 4662762757952850046}
   - component: {fileID: 1180525620520019517}
   - component: {fileID: 7870566264584878374}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object146
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4662762757952850046
 Transform:
@@ -23727,12 +23889,12 @@ GameObject:
   - component: {fileID: 4662762757805425578}
   - component: {fileID: 1180525620901015017}
   - component: {fileID: 7870566265236730610}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object146
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4662762757805425578
 Transform:
@@ -23810,12 +23972,12 @@ GameObject:
   - component: {fileID: 4662762758709350432}
   - component: {fileID: 1180525621809135203}
   - component: {fileID: 7870566264332673400}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object146
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4662762758709350432
 Transform:
@@ -23893,12 +24055,12 @@ GameObject:
   - component: {fileID: 2814208473786207668}
   - component: {fileID: 6886348303146591112}
   - component: {fileID: 5762650773338778800}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2814208473786207668
 Transform:
@@ -23976,12 +24138,12 @@ GameObject:
   - component: {fileID: 1691703217339089457}
   - component: {fileID: 2299189613220614231}
   - component: {fileID: 4790655098679033839}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingHotelRoof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1691703217339089457
 Transform:
@@ -24059,12 +24221,12 @@ GameObject:
   - component: {fileID: 8876853526098770370}
   - component: {fileID: 1152657373915324565}
   - component: {fileID: 5910392357061451880}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingle001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8876853526098770370
 Transform:
@@ -24140,12 +24302,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7216581633893060789}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7216581633893060789
 Transform:
@@ -24174,12 +24336,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7216581633727692801}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7216581633727692801
 Transform:
@@ -24208,12 +24370,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7216581634264948634}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7216581634264948634
 Transform:
@@ -24242,12 +24404,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7216581634329096006}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundWallPebbles2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7216581634329096006
 Transform:
@@ -24278,12 +24440,12 @@ GameObject:
   - component: {fileID: 1575683411342308205}
   - component: {fileID: 5741862756339587650}
   - component: {fileID: 5089903823463133585}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: PebblesCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1575683411342308205
 Transform:
@@ -24361,12 +24523,12 @@ GameObject:
   - component: {fileID: 6184602040631683616}
   - component: {fileID: 2502575795800361636}
   - component: {fileID: 2413002232594041435}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6184602040631683616
 Transform:
@@ -24444,12 +24606,12 @@ GameObject:
   - component: {fileID: 843164368149145692}
   - component: {fileID: 175649393518749637}
   - component: {fileID: 4620065870984150236}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &843164368149145692
 Transform:
@@ -24527,12 +24689,12 @@ GameObject:
   - component: {fileID: 5620079398805723261}
   - component: {fileID: 9056637479000925569}
   - component: {fileID: 3049704907602035443}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5620079398805723261
 Transform:
@@ -24610,12 +24772,12 @@ GameObject:
   - component: {fileID: 6347919193117416800}
   - component: {fileID: 6440601054392402983}
   - component: {fileID: 3163420847453000955}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6347919193117416800
 Transform:
@@ -24693,12 +24855,12 @@ GameObject:
   - component: {fileID: 5171169072315394214}
   - component: {fileID: 3455976845713264760}
   - component: {fileID: 3051538286570634578}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5171169072315394214
 Transform:
@@ -24776,12 +24938,12 @@ GameObject:
   - component: {fileID: 9098863247879561429}
   - component: {fileID: 5326206397505400688}
   - component: {fileID: 7930429058589399994}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoadCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9098863247879561429
 Transform:
@@ -24859,12 +25021,12 @@ GameObject:
   - component: {fileID: 9098863248819426142}
   - component: {fileID: 5326206398444477691}
   - component: {fileID: 7930429058186405937}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoadCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9098863248819426142
 Transform:
@@ -24942,12 +25104,12 @@ GameObject:
   - component: {fileID: 9098863249481234443}
   - component: {fileID: 5326206396958537646}
   - component: {fileID: 7930429059118433124}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: GroundPavementRoadCorner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9098863249481234443
 Transform:
@@ -25025,12 +25187,12 @@ GameObject:
   - component: {fileID: 4723592972390710866}
   - component: {fileID: 6300543405593869484}
   - component: {fileID: 333635076739687717}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4723592972390710866
 Transform:
@@ -25108,12 +25270,12 @@ GameObject:
   - component: {fileID: 4723592972155645670}
   - component: {fileID: 6300543405359721496}
   - component: {fileID: 333635076704351633}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4723592972155645670
 Transform:
@@ -25191,12 +25353,12 @@ GameObject:
   - component: {fileID: 4723592972859904277}
   - component: {fileID: 6300543404990501867}
   - component: {fileID: 333635076268247650}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4723592972859904277
 Transform:
@@ -25274,12 +25436,12 @@ GameObject:
   - component: {fileID: 4723592972928278985}
   - component: {fileID: 6300543405056385847}
   - component: {fileID: 333635076202379966}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4723592972928278985
 Transform:
@@ -25357,12 +25519,12 @@ GameObject:
   - component: {fileID: 5222052570529824426}
   - component: {fileID: 912203155844214669}
   - component: {fileID: 8715680779285254449}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5222052570529824426
 Transform:
@@ -25440,12 +25602,12 @@ GameObject:
   - component: {fileID: 5222052569869907326}
   - component: {fileID: 912203155428549721}
   - component: {fileID: 8715680778356644581}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5222052569869907326
 Transform:
@@ -25523,12 +25685,12 @@ GameObject:
   - component: {fileID: 5222052571773611296}
   - component: {fileID: 912203154604882951}
   - component: {fileID: 8715680780256019131}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Object144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5222052571773611296
 Transform:
@@ -25606,12 +25768,12 @@ GameObject:
   - component: {fileID: 3029130073045424846}
   - component: {fileID: 1806678102433861134}
   - component: {fileID: 1183503931258243943}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3029130073045424846
 Transform:
@@ -25689,12 +25851,12 @@ GameObject:
   - component: {fileID: 2561579396499124075}
   - component: {fileID: 7027819474214168239}
   - component: {fileID: 3038789833111925058}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: RailingPost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2561579396499124075
 Transform:
@@ -25772,12 +25934,12 @@ GameObject:
   - component: {fileID: 6845854091119844313}
   - component: {fileID: 2390039633513102241}
   - component: {fileID: 8003936262851439415}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Pebbles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6845854091119844313
 Transform:
@@ -25855,12 +26017,12 @@ GameObject:
   - component: {fileID: 55730169599522186}
   - component: {fileID: 5194520943003286556}
   - component: {fileID: 3892338999422563648}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowRecSingle006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &55730169599522186
 Transform:
@@ -25938,12 +26100,12 @@ GameObject:
   - component: {fileID: 2119478309599360910}
   - component: {fileID: 1741267603226595769}
   - component: {fileID: 8079102068252029043}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2119478309599360910
 Transform:
@@ -26021,12 +26183,12 @@ GameObject:
   - component: {fileID: 2119478311526166480}
   - component: {fileID: 1741267602439555559}
   - component: {fileID: 8079102068502095917}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2119478311526166480
 Transform:
@@ -26104,12 +26266,12 @@ GameObject:
   - component: {fileID: 2119478310574744580}
   - component: {fileID: 1741267602318344755}
   - component: {fileID: 8079102069428610041}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2119478310574744580
 Transform:
@@ -26187,12 +26349,12 @@ GameObject:
   - component: {fileID: 6889536006610099829}
   - component: {fileID: 1780364302623325427}
   - component: {fileID: 5770660048793377850}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Railing1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6889536006610099829
 Transform:
@@ -26270,12 +26432,12 @@ GameObject:
   - component: {fileID: 9112826911903374663}
   - component: {fileID: 4730287586087440314}
   - component: {fileID: 6910313465628687807}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9112826911903374663
 Transform:
@@ -26353,12 +26515,12 @@ GameObject:
   - component: {fileID: 5961548237226898601}
   - component: {fileID: 2551427343581788089}
   - component: {fileID: 678589109878505844}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: WindowArchSingleSlim012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5961548237226898601
 Transform:
@@ -26436,12 +26598,12 @@ GameObject:
   - component: {fileID: 4869215281008756692}
   - component: {fileID: 6198780327467359188}
   - component: {fileID: 2332077126229476679}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BuildingPubRoof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4869215281008756692
 Transform:
@@ -26508,3 +26670,215 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &482036261205786332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5184339823404733563}
+    m_Modifications:
+    - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_text
+      value: 'Servane''s House
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_fontStyle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 730797829146455667, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 107.62529
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 56.99804
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0507
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.019063
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.992505
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3508777369808339626, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3508777369808339626, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c5ef8db4d37ba4c0fb5e17dbb0e044ba,
+        type: 3}
+    - target: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Name
+      value: CanvasPopup
+      objectReference: {fileID: 0}
+    - target: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4574658207935633897, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4717891117563885074, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4717891117563885074, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367446109231702915, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 93.407
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367446109231702915, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 54.362
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367446109231702915, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.34912
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367446109231702915, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2.962
+      objectReference: {fileID: 0}
+    - target: {fileID: 9070691437282278517, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9070691437282278517, guid: 53248159ae746e049b29d3e1aa32523d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53248159ae746e049b29d3e1aa32523d, type: 3}
+--- !u!224 &3102106543321162749 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3295627894240681249, guid: 53248159ae746e049b29d3e1aa32523d,
+    type: 3}
+  m_PrefabInstance: {fileID: 482036261205786332}
+  m_PrefabAsset: {fileID: 0}
