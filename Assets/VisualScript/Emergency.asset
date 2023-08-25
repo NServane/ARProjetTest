@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Emergency
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Button
+      emergency","summary":"Press button for emergency","pan":{"x":0.0,"y":-9.34111},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-89.0,"y":-151.0},"guid":"73291015-6db9-4a2f-8e09-0a679ed098af","$version":"A","$type":"Unity.VisualScripting.OnButtonClick","$id":"9"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Button
+      Emergency","$type":"System.String"},"object":null},"position":{"x":-339.0,"y":-156.0},"guid":"31616dae-3ff8-402c-aa3e-e0064a0dd559","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"chainable":false,"parameterNames":[],"member":{"name":"Stop","parameterTypes":[],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null},"position":{"x":141.0,"y":-150.0},"guid":"b00c4ff8-1a39-41f9-8164-6d36411327cc","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"13"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Electric
+      Sound","$type":"System.String"},"object":null},"position":{"x":-74.0,"y":-17.0},"guid":"40769762-995a-4786-906b-23be5cd5c0c1","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"17"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"66f62976-6c79-4f78-bb9a-866e0cce24f6","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"target","guid":"986fb237-5a46-4ef0-a91d-b8cb8e965118","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"13"},"destinationKey":"target","guid":"43f9418e-0b51-4f36-b61b-9e326ba54b2a","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
